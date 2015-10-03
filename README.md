@@ -1,8 +1,8 @@
 ### IPython notesbooks for topics specific  tutorials
 
-* [How to convert sql queries to pandas](sql-equivalents.ipnb)
-* [How to convert sql queries to SQLAlchemy](sql-equivalents-sqlalchemy.ipnb)
-* [Doing things with python collections](Collections.ipnb)
+* [How to convert sql queries to pandas](sql-equivalents.ipynb)
+* [How to convert sql queries to SQLAlchemy](sql-equivalents-sqlalchemy.ipynb)
+* [Doing things with python collections](Collections.ipynb)
 
 
 #### Data files used for tutorials
