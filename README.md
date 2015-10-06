@@ -1,4 +1,4 @@
-### IPython notesbooks for topics specific  tutorials
+### IPython notebooks for topics specific  tutorials
 
 * [How to convert sql queries to pandas](sql-equivalents.ipynb)
 * [How to convert sql queries to SQLAlchemy](sql-equivalents-sqlalchemy.ipynb)
